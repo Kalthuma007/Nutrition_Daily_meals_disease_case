@@ -6,3 +6,4 @@ __pycache__/
 nutrition_daily_meals_env/
 __pycache__/
 *.pyc
+.DS_Store
